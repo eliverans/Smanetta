@@ -1867,5 +1867,5 @@
     <members>GymEvent__c.PostInsertUpdate</members>
     <name>WorkflowRule</name>
   </types>
-  <version>45.0</version>
+  <version>44.0</version>
 </Package>
