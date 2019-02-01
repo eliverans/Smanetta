@@ -1,3 +1,3 @@
 <aura:application >
-    <c:campingListItem/>
+    <c:helloWorld/>
 </aura:application>
